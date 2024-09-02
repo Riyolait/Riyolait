@@ -4,7 +4,7 @@ I am Matthieu, a student at Polytech Lyon specializing in Computer Science, with
 
 # 💼 About Me
 
-🎓 Student in Computer Science at Polytech Lyon
+🎓 Student in Computer Science at Polytech Lyon, France
 - 🛠 Completed an internship in Python development and web development
 - 🌱 Currently working on an exciting project: Blockchain Simulator in React
 - 💻 Favorite technologies: Python, Java, React, HTML/CSS, JavaScript
