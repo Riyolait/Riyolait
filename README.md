@@ -44,7 +44,7 @@ Goals: To provide a simple interface to understand the basics of blockchain, suc
 
 # 🎯 Future Goals
 
-Enhance my skills in full-stack development
+Enhance my skills in full-stack development / software development
 
 Explore topics like artificial intelligence and machine learning
 
