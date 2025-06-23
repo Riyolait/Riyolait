@@ -1,61 +1,57 @@
-👋 Welcome to My GitHub Profile!
+# 👋 Welcome to My GitHub Profile!
 Hello! I'm Matthieu Serek, a junior software engineer passionate about building intelligent applications and solving real-world problems with code.
 
-💼 About Me
+# 💼 About Me
 🎓 Fresh graduate in Computer Science – Polytech Lyon
 🌍 Based in France, recently completed a 5-month software engineering internship in the Philippines
 💡 Passionate about AI automation, mobile applications, and efficient backend systems
 
-🛠 Technical Skills
-Languages
+## 🛠 Technical Skills
+__Languages__
 
-Python 🐍 | JavaScript 🌐 | Java ☕ | SQL
+- Python 🐍 | JavaScript 🌐 | Java ☕ | SQL
 
-Frontend
+__Frontend__
 
-React, React Native (Expo & CLI), HTML5, CSS3
+- React, React Native (Expo & CLI), HTML5, CSS3
 
-Backend
+__Backend__
 
-Node.js, FastAPI
+- Node.js, FastAPI
 
-Databases & Auth
+__Databases & Auth__
 
-Supabase, PostgreSQL, MySQL
+- Supabase, PostgreSQL, MySQL
 
-Dev Tools
+__Dev Tools__
 
-Git & GitHub, Docker, Postman, VS Code
+- Git & GitHub, Docker, Postman, VS Code, Cursor
 
-AI Tools
+__AI Tools__
 
-LangChain, LangGraph
+- LangChain, LangGraph
 
-🚀 Projects
-🧠 AI Workflow Assistant (Internship @ iScale Solutions, 2025)
-Built an internal AI-powered chatbot using LangChain and LangGraph (Python) to automate time-consuming manual workflows.
-Helped the team improve productivity through process automation.
+## 🚀 Projects
 
-🚗 SabayGo – Carpooling Mobile App
+### __🚗 SabayGo – Carpooling Mobile App__
 Designed and built a mobile carpooling app for the Philippines with:
 
-React Native (frontend), Node.js (backend), and Supabase (auth + realtime DB)
+- React Native (frontend), Node.js (backend), and Supabase (auth + realtime DB)
 
 Features: ride creation, user authentication, driver/passenger matching, and location tracking
-
 📍 Live-tested in a local context with focus on UX and performance
 
-🔗 Blockchain Simulator (Past Project)
+### __🔗 Blockchain Simulator (Past Project)__
 A React-based interactive tool simulating blockchain principles (transactions, blocks, mining).
 Tech stack: React, Node.js, CSS
 
-🎯 What’s Next?
+## 🎯 What’s Next?
 Seeking a software engineering or app development role starting September 2025
 
 Interested in working on AI applications, backend development, or mobile-first platforms
 
 Always open to new challenges and collaborative projects
 
-📫 How to Reach Me
+## 📫 How to Reach Me
 📧 Email: matt.serek@gmail.com
 🔗 LinkedIn: linkedin.com/in/matthieuserek
