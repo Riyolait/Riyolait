@@ -1,52 +1,61 @@
-# 👋 Welcome to My GitHub Profile!
+👋 Welcome to My GitHub Profile!
+Hello! I'm Matthieu Serek, a junior software engineer passionate about building intelligent applications and solving real-world problems with code.
 
-I am Matthieu, a student at Polytech Lyon specializing in Computer Science, with a passion for software development and web technologies. 🚀
+💼 About Me
+🎓 Fresh graduate in Computer Science – Polytech Lyon
+🌍 Based in France, recently completed a 5-month software engineering internship in the Philippines
+💡 Passionate about AI automation, mobile applications, and efficient backend systems
 
-# 💼 About Me
+🛠 Technical Skills
+Languages
 
-🎓 Student in Computer Science at Polytech Lyon, France
-- 🛠 Completed an internship in Python development and web development
-- 🌱 Currently working on an exciting project: Blockchain Simulator in React
-- 💻 Favorite technologies: Python, Java, React, HTML/CSS, JavaScript
+Python 🐍 | JavaScript 🌐 | Java ☕ | SQL
 
-# 🛠️ Technical Skills
-Programming Languages:
+Frontend
 
-- Python 🐍
-- Java ☕
-- JavaScript 🌐
+React, React Native (Expo & CLI), HTML5, CSS3
 
-Web Development:
+Backend
 
-- Frontend: React, HTML5, CSS3, Sass
-- Backend: Node.js, PHP
-- Databases: MySQL
+Node.js, FastAPI
 
-Tools & Environments:
+Databases & Auth
 
-- Git & GitHub
-- Docker
-- Visual Studio Code
+Supabase, PostgreSQL, MySQL
 
-# 🚀 Current Project
+Dev Tools
 
-Blockchain Simulator
+Git & GitHub, Docker, Postman, VS Code
 
-Description: An interactive web tool that simulates blockchain concepts. The project uses React for the frontend, with a lightweight backend for handling simulations.
-Technologies: React, Node.js, CSS
+AI Tools
 
-Goals: To provide a simple interface to understand the basics of blockchain, such as transactions, blocks, and mining.
+LangChain, LangGraph
 
-# 📫 How to Reach Me
+🚀 Projects
+🧠 AI Workflow Assistant (Internship @ iScale Solutions, 2025)
+Built an internal AI-powered chatbot using LangChain and LangGraph (Python) to automate time-consuming manual workflows.
+Helped the team improve productivity through process automation.
 
-- Email: matt.serek@gmail.com
-- LinkedIn: linkedin.com/in/matthieuserek
+🚗 SabayGo – Carpooling Mobile App
+Designed and built a mobile carpooling app for the Philippines with:
 
-# 🎯 Future Goals
+React Native (frontend), Node.js (backend), and Supabase (auth + realtime DB)
 
-Enhance my skills in full-stack development / software development
+Features: ride creation, user authentication, driver/passenger matching, and location tracking
 
-Explore topics like artificial intelligence and machine learning
+📍 Live-tested in a local context with focus on UX and performance
 
-Thank you for visiting my GitHub profile! Feel free to reach out if you'd like to collaborate or discuss any projects. 😊
+🔗 Blockchain Simulator (Past Project)
+A React-based interactive tool simulating blockchain principles (transactions, blocks, mining).
+Tech stack: React, Node.js, CSS
 
+🎯 What’s Next?
+Seeking a software engineering or app development role starting September 2025
+
+Interested in working on AI applications, backend development, or mobile-first platforms
+
+Always open to new challenges and collaborative projects
+
+📫 How to Reach Me
+📧 Email: matt.serek@gmail.com
+🔗 LinkedIn: linkedin.com/in/matthieuserek
