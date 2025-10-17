@@ -13,25 +13,32 @@ __Languages__
 
 __Frontend__
 
-- React, React Native (Expo & CLI), HTML5, CSS3
+- React, React Native (Expo & CLI), Angular
 
 __Backend__
 
-- Node.js, FastAPI
+- Node.js, FastAPI, SpringBoot
 
 __Databases & Auth__
 
-- Supabase, PostgreSQL, MySQL
+- Supabase, PostgreSQL
 
 __Dev Tools__
 
-- Git & GitHub, Docker, Postman, VS Code, Cursor
+- Git & GitHub, Docker, Postman, Cursor
 
 __AI Tools__
 
-- LangChain, LangGraph
+- LangChain, LangGraph, PyTorch
 
 ## 🚀 Projects
+
+### __KeresAI__
+Agentic AI Chatbot designed to create the perfect journey for the user:
+- Train, Flight, Hotel search agents (SNCF, Amadeus)
+- Web Scrapping agents to get the best deals on trains, flights and hotels
+
+- Python FastAPI, LangChain & LangGraph, NextJS, PostgreSQL 
 
 ### __🚗 SabayGo – Carpooling Mobile App__
 Designed and built a mobile carpooling app for the Philippines with:
