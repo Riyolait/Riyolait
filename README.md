@@ -4,12 +4,12 @@ Hello! I'm Matthieu Serek, a junior software engineer passionate about building 
 # 💼 About Me
 🎓 Fresh graduate in Computer Science – Polytech Lyon
 🌍 Based in France, recently completed a 5-month software engineering internship in the Philippines
-💡 Passionate about AI automation, mobile applications, and efficient backend systems
+💡 Passionate about AI, software engineering, and efficient backend systems
 
 ## 🛠 Technical Skills
 __Languages__
 
-- Python 🐍 | JavaScript 🌐 | Java ☕ | SQL
+- Python 🐍 | JavaScript/TypeScript 🌐 | Java ☕ | SQL
 
 __Frontend__
 
@@ -33,7 +33,7 @@ __AI Tools__
 
 ## 🚀 Projects
 
-### __KeresAI__
+### __KeresAI__ [keresAI](https://travelassis-front.vercel.app/)
 Agentic AI Chatbot designed to create the perfect journey for the user:
 - Train, Flight, Hotel search agents (SNCF, Amadeus)
 - Web Scrapping agents to get the best deals on trains, flights and hotels
